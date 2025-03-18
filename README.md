@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 
-<a href="https://github.com/Abhishekraina7">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abhishekraina7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abhishekraina7&layout=compact&langs_count=8&theme=algolia"/>
+<a href=>
+  <img />
+  <img height="180em" src=/>
 </a>
