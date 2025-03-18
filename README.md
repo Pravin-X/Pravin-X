@@ -31,12 +31,3 @@
 Abhishekraina7/Abhishekraina7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Expanding my TechStack with:
-[![roadmap.sh](https://roadmap.sh/card/wide/66d47bb8553501e3c37f4416?variant=dark&roadmaps=nodejs%2Cjavascript%2Cbackend%2Ctypescript)](https://roadmap.sh)s
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-
-<a href=>
-  <img />
-  <img height="180em" src=/>
-</a>
